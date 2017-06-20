@@ -270,6 +270,7 @@ set(WTF_SOURCES
 set(WTF_INCLUDE_DIRECTORIES
     "${BMALLOC_DIR}"
     "${WTF_DIR}"
+    "${WTF_DIR}/icu"
     "${WTF_DIR}/wtf"
     "${WTF_DIR}/wtf/dtoa"
     "${WTF_DIR}/wtf/text"
